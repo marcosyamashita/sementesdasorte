@@ -214,11 +214,11 @@ Concorra a 5 carros 0Km.</h1>
       
       <div class="flexbox reverse">
         <div class="half-box half-video">
-          <div class="video-overlay win-sementesSorte"></div>
+          <div class="video-overlay win-kwid-nizael"></div>
         </div>
         <div class="half-box">
           <div class="test-box">
-            <p class="paragraph">Nizael Francislei Rosa é o 5º ganhador do Sementes da Sorte 2020. Em breve colocaremos mais informações sobre a entrega do prêmio.</p>
+            <p class="paragraph">Fechando com chave de ouro o nosso último sorteio da Campanha 2020. Nizael Rosa foi premiado com um carro 0km, Parabens!</p>
           </div>
           <div class="flexbox margin-around">
             <div class="winner-info">
@@ -232,7 +232,7 @@ Concorra a 5 carros 0Km.</h1>
       <div class="flexbox">
         <div class="half-box">
           <div class="test-box">
-            <p class="paragraph">Conforme divulgado no Instagram e Facebook em 15/01/2021, o associado Divino de Melo foi o nosso ganhador do 4º carro do Sementes da Sorte. O sorteio foi realizado no dia 30/12/2020. A cerimônia de entrega das chaves ainda não pode ser realizada devido ao lockdown da cidade. A foto oficial será postada aqui assim que a Concessionária reabrir.</p>
+            <p class="paragraph">Divino de Melo é mais um sortudo que ganhou um carro 0km na nossa Campanha "Sementes da Sorte". Parabéns Divino!</p>
           </div>
           <div class="flexbox margin-around">
             <div class="winner-info">

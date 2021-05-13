@@ -1557,8 +1557,8 @@
 
 .video-overlay.win-mobi-divino {
   border: 1px solid #a2c037;
-  background-image: url("../images/Mobi.jpeg");
-  background-position: 50% 50%;
+  background-image: url("../images/ganhador_mobi_divino.png");
+  background-position: 50% 30%;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -1567,6 +1567,15 @@
 .video-overlay.win-sementesSorte {
   border: 1px solid #a2c037;
   background-image: url("../images/Sementes_da_Sorte.png");
+  background-position: 30% 30%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+}
+
+.video-overlay.win-kwid-nizael {
+  border: 1px solid #a2c037;
+  background-image: url("../images/ganhador_kwid_nizael.jpg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
