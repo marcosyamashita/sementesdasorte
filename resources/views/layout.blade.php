@@ -72,28 +72,8 @@ Concorra a 5 carros 0Km.</h1>
         </div>
         <div class="sort-date">
           <div class="sort-date-day">27</div>
-          <div class="sort-date--month">jun</div>
-          <div>2020</div>
-        </div>
-      </div>
-      <div class="carbox">
-        <div class="car-2 carbox-img">
-          <p class="subheading">Renault Kwid 1.0</p>
-        </div>
-        <div class="sort-date">
-          <div class="sort-date-day">29</div>
-          <div class="sort-date--month">ago</div>
-          <div>2020</div>
-        </div>
-      </div>
-      <div class="carbox">
-        <div class="car-2 carbox-img">
-          <p class="subheading">Renault Kwid 1.0</p>
-        </div>
-        <div class="sort-date">
-          <div class="sort-date-day">31</div>
-          <div class="sort-date--month">out</div>
-          <div>2020</div>
+          <div class="sort-date--month">mar</div>
+          <div>2021</div>
         </div>
       </div>
       <div class="carbox">
@@ -102,8 +82,8 @@ Concorra a 5 carros 0Km.</h1>
         </div>
         <div class="sort-date">
           <div class="sort-date-day">26</div>
-          <div class="sort-date--month">dez</div>
-          <div>2020</div>
+          <div class="sort-date--month">jun</div>
+          <div>2021</div>
         </div>
       </div>
       <div class="carbox">
@@ -111,9 +91,29 @@ Concorra a 5 carros 0Km.</h1>
           <p class="subheading">Renault Kwid 1.0</p>
         </div>
         <div class="sort-date">
-          <div class="sort-date-day">27</div>
-          <div class="sort-date--month">mar</div>
+          <div class="sort-date-day">29</div>
+          <div class="sort-date--month">set</div>
           <div>2021</div>
+        </div>
+      </div>
+      <div class="carbox">
+        <div class="car-2 carbox-img">
+          <p class="subheading">Renault Kwid 1.0</p>
+        </div>
+        <div class="sort-date">
+          <div class="sort-date-day">29</div>
+          <div class="sort-date--month">dez</div>
+          <div>2021</div>
+        </div>
+      </div>
+      <div class="carbox">
+       <div class="car-2 carbox-img">
+          <p class="subheading">Renault Kwid 1.0</p>
+        </div>
+        <div class="sort-date">
+          <div class="sort-date-day">26</div>
+          <div class="sort-date--month">mar</div>
+          <div>2022</div>
         </div>
       </div>
       <!-- <div class="carbox">
@@ -198,9 +198,9 @@ Concorra a 5 carros 0Km.</h1>
     <div id="regulamento" class="light-cta section">
       <div class="w-container">
         <h2 class="title">VEJA O REGULAMENTO E SAIBA COMO CONCORRER A 5 CARROS 0KM!</h2>
-        <a class="btn-small w-button" target="_blank" href="/docs/Campanha-Sementes-Sorte_2020_v2.pdf">Baixar REGULAMENTO 2020</a>
+        <a class="btn-small w-button" target="_blank" href="/public/docs/Regulamento-2021-v1.pdf">Baixar REGULAMENTO 2021</a>
         {{-- <a class="btn-small w-button" target="_blank" href="/docs/Regulamento_2020_SementesDaSorte.pdf">Baixar REGULAMENTO 2020</a> --}}
-        <a class="button orange w-button" target="_blank" href="/docs/Campanha-Sementes-da-Sorte-2019_v2.pdf">Baixar REGULAMENTO 2019</a>
+        <a class="button orange w-button" target="_blank" href="/public/docs/Campanha-Sementes-Sorte_2020_v2.pdf">Baixar REGULAMENTO 2020</a>
         {{-- <a class="btn-small w-button" target="_blank" href="/docs/Regulamento-Sementes-da-Sorte-2018-revisao.pdf">Baixar REGULAMENTO 2018</a> --}}
         <!-- <a class="btn-small w-button" target="_blank" href="http://www.crediembrapa.com.br/doc/regulamento2017.pdf">Baixar REGULAMENTO 2017</a> -->
         <h3 class="second-title subtitle-cta">Agora é acumular cupons e torcer para ganhar!</h3>
@@ -582,7 +582,7 @@ Concorra a 5 carros 0Km.</h1>
             <form data-name="Email Form" id="email-form" name="email-form">
               <input class="input w-input" id="cpf" maxlength="14" name="cpf" placeholder="DIGITE AQUI SEU CPF" required="required" type="text">
               {{-- desabilitado pela solicitação do Eduarno no grupo de TI as 26/03/21 as 11h42 --}}
-              {{-- <a class="button orange w-button btn-consuta manutencao" data-ix="abremodal" href="#" data-ano="{{date('Y')}}">Consultar {{date('Y')}}</a>  --}}
+              <a class="button orange w-button btn-consuta manutencao" data-ix="abremodal" href="#" data-ano="{{date('Y')}}">Consultar {{date('Y')}}</a>
               <a class="btn-small w-button btn-consuta manutencao" data-ix="abremodal" href="#" data-ano="{{(date('Y') - 1)}}">Consultar {{(date('Y') - 1)}}</a>
               
               <!-- LINKS MANUTENCAO -->
