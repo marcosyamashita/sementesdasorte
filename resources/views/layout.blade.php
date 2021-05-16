@@ -198,9 +198,9 @@ Concorra a 5 carros 0Km.</h1>
     <div id="regulamento" class="light-cta section">
       <div class="w-container">
         <h2 class="title">VEJA O REGULAMENTO E SAIBA COMO CONCORRER A 5 CARROS 0KM!</h2>
-        <a class="btn-small w-button" target="_blank" href="../public/docs/Regulamento-2021-v1.pdf">Baixar REGULAMENTO 2021</a>
+        <a class="btn-small w-button" target="_blank" href="/docs/Regulamento-2021-v1.pdf">Baixar REGULAMENTO 2021</a>
         {{-- <a class="btn-small w-button" target="_blank" href="/docs/Regulamento_2020_SementesDaSorte.pdf">Baixar REGULAMENTO 2020</a> --}}
-        <a class="button orange w-button" target="_blank" href="../public/docs/Campanha-Sementes-Sorte_2020_v2.pdf">Baixar REGULAMENTO 2020</a>
+        <a class="button orange w-button" target="_blank" href="/docs/Campanha-Sementes-Sorte_2020_v2.pdf">Baixar REGULAMENTO 2020</a>
         {{-- <a class="btn-small w-button" target="_blank" href="/docs/Regulamento-Sementes-da-Sorte-2018-revisao.pdf">Baixar REGULAMENTO 2018</a> --}}
         <!-- <a class="btn-small w-button" target="_blank" href="http://www.crediembrapa.com.br/doc/regulamento2017.pdf">Baixar REGULAMENTO 2017</a> -->
         <h3 class="second-title subtitle-cta">Agora é acumular cupons e torcer para ganhar!</h3>
