@@ -50,7 +50,7 @@
         </div>
         <div>
           <h1 class="microcopy-heading">Plante sua sorte.<br>
-Concorra a 5 carros 0Km.</h1>
+Concorra a 4 carros 0Km.</h1>
           <p class="subheading">A campanha Sementes da Sorte já começou. Abra já sua conta com o Sicoob, junte seus cupons e torça para ganhar!</p>
         </div>
       </div>
@@ -197,7 +197,7 @@ Concorra a 5 carros 0Km.</h1>
     </div>
     <div id="regulamento" class="light-cta section">
       <div class="w-container">
-        <h2 class="title">VEJA O REGULAMENTO E SAIBA COMO CONCORRER A 5 CARROS 0KM!</h2>
+        <h2 class="title">VEJA O REGULAMENTO E SAIBA COMO CONCORRER A 4 CARROS 0KM!</h2>
         <a class="btn-small w-button" target="_blank" href="/docs/Regulamento-2021-v1.pdf">Baixar REGULAMENTO 2021</a>
         {{-- <a class="btn-small w-button" target="_blank" href="/docs/Regulamento_2020_SementesDaSorte.pdf">Baixar REGULAMENTO 2020</a> --}}
         <a class="button orange w-button" target="_blank" href="/docs/Campanha-Sementes-Sorte_2020_v2.pdf">Baixar REGULAMENTO 2020</a>
