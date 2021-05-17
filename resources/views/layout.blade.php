@@ -66,7 +66,7 @@ Concorra a 5 carros 0Km.</h1>
           <div>2018</div>
         </div>
       </div> -->
-      <div class="carbox">
+      <!--<div class="carbox">
         <div class="car-2 carbox-img">
           <p class="subheading">Renault Kwid 1.0</p>
         </div>
@@ -75,7 +75,7 @@ Concorra a 5 carros 0Km.</h1>
           <div class="sort-date--month">mar</div>
           <div>2021</div>
         </div>
-      </div>
+      </div> -->
       <div class="carbox">
         <div class="car-2 carbox-img">
           <p class="subheading">Renault Kwid 1.0</p>
