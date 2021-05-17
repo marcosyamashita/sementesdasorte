@@ -198,9 +198,9 @@ Concorra a 4 carros 0Km.</h1>
     <div id="regulamento" class="light-cta section">
       <div class="w-container">
         <h2 class="title">VEJA O REGULAMENTO E SAIBA COMO CONCORRER A 4 CARROS 0KM!</h2>
-        <a class="btn-small w-button" target="_blank" href="/docs/Regulamento-2021-v1.pdf">Baixar REGULAMENTO 2021</a>
+        <a class="button orange w-button" target="_blank" href="/docs/Regulamento-2021-v1.pdf">Baixar REGULAMENTO 2021</a>
         {{-- <a class="btn-small w-button" target="_blank" href="/docs/Regulamento_2020_SementesDaSorte.pdf">Baixar REGULAMENTO 2020</a> --}}
-        <a class="button orange w-button" target="_blank" href="/docs/Campanha-Sementes-Sorte_2020_v2.pdf">Baixar REGULAMENTO 2020</a>
+        <a class="btn-small w-button" target="_blank" href="/docs/Campanha-Sementes-Sorte_2020_v2.pdf">Baixar REGULAMENTO 2020</a>
         {{-- <a class="btn-small w-button" target="_blank" href="/docs/Regulamento-Sementes-da-Sorte-2018-revisao.pdf">Baixar REGULAMENTO 2018</a> --}}
         <!-- <a class="btn-small w-button" target="_blank" href="http://www.crediembrapa.com.br/doc/regulamento2017.pdf">Baixar REGULAMENTO 2017</a> -->
         <h3 class="second-title subtitle-cta">Agora é acumular cupons e torcer para ganhar!</h3>
@@ -218,7 +218,7 @@ Concorra a 4 carros 0Km.</h1>
         </div>
         <div class="half-box">
           <div class="test-box">
-            <p class="paragraph">Fechando com chave de ouro o nosso último sorteio da Campanha 2020. Nizael Rosa foi premiado com um carro 0km, Parabens!</p>
+            <p class="paragraph">Fechando com chave de ouro o nosso último sorteio da Campanha 2020. Nizael Rosa foi premiado com um carro 0km, Parabéns!</p>
           </div>
           <div class="flexbox margin-around">
             <div class="winner-info">
@@ -232,7 +232,7 @@ Concorra a 4 carros 0Km.</h1>
       <div class="flexbox">
         <div class="half-box">
           <div class="test-box">
-            <p class="paragraph">Divino de Melo é mais um sortudo que ganhou um carro 0km na nossa Campanha "Sementes da Sorte". Parabéns Divino!</p>
+            <p class="paragraph">Divino de Melo é mais um sortudo que ganhou um carro 0km na nossa Campanha "Sementes da Sorte". Parabéns, Divino!</p>
           </div>
           <div class="flexbox margin-around">
             <div class="winner-info">
