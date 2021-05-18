@@ -55,7 +55,7 @@ Route::get('/check-cupom/print/{cpf}/{ano?}', function($cpf, $ano = null) use ($
 Route::post('/contato', function(\Illuminate\Http\Request $request){
     $recipiente = new \stdClass();
     $recipiente->name = "Equipe Sicoob Crediembrapa";
-    $recipiente->email = "contato@crediembrapa.com.br";
+    $recipiente->email = "agenciavirtual@crediembrapa.com.br";
 
 
     \Illuminate\Support\Facades\Mail::to($recipiente)->send(new App\Mail\ContatoMail($request->all()));
