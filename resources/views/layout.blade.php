@@ -611,7 +611,7 @@ Concorra a 4 carros 0Km.</h1>
               <input class="input w-input" id="telefone" maxlength="256" name="telefone" placeholder="Telefone" required="required" type="text">
               <input class="input w-input" id="email" maxlength="256" name="email" placeholder="Email" required="required" type="email">
               <textarea class="input input-textarea w-input" id="mensagem" maxlength="5000" name="mensagem" placeholder="Mensagem" required="required"></textarea>
-              <input class="button orange w-button" data-wait="Aguarde..." type="submit" value="Enviar">
+              <input class="button orange w-button" data-wait="Aguarde..." type="submit" value="Enviar" onclick="limparCampos()">
             </form>
             <div class="w-form-done">
               <div>Obrigado! Em breve retornaremos!</div>
@@ -631,6 +631,18 @@ Concorra a 4 carros 0Km.</h1>
   </div>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js" type="text/javascript"></script>
   <script src="js/sementes-da-sorte.js" type="text/javascript"></script>
+
+  <script>
+    function limparCampos() {
+      setTimeout(function () {
+        document.getElementById('nome').value = "";
+        document.getElementById('telefone').value = "";
+        document.getElementById('email').value = "";
+        document.getElementById('mensagem').value = "";
+      }, 500);
+    }
+  </script>
+
   <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
   @yield('script')
 </body>
