@@ -614,7 +614,7 @@ Concorra a 4 carros 0Km.</h1>
               <input class="button orange w-button" data-wait="Aguarde..." type="submit" value="Enviar" onclick="limparCampos()">
             </form>
             <div class="w-form-done">
-              <div>Obrigado! Em breve retornaremos!</div>
+              <div>Sua mensagem foi enviada com sucesso. Agradecemos o contato. Retornaremos em breve!</div>
             </div>
             <div class="w-form-fail">
               <div>Oops! Alguma coisa aconteceu de errado. Tente novamente</div>
